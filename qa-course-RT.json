@@ -1,0 +1,1683 @@
+{
+    "type": "course",
+    "quizzes": [],
+    "card_stacks": [],
+    "exams": [],
+    "events": [
+        {
+            "user_stat_list": [],
+            "poll_intervall": 2500,
+            "server_time": "2024-05-28T08:46:30.596Z",
+            "status": "PRE_START",
+            "name": "RT00 Basics",
+            "pin_code": "LTUKUN",
+            "color_code": "#72b12e",
+            "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/e8003de0-f47e-11ed-9561-3992cf155281.png",
+            "selected_music": "Jazzy",
+            "answer_time_sec": 30,
+            "active_question_start": "2024-03-11 07:10:09",
+            "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+            "created_at": "2022-10-04T06:01:37.000Z",
+            "show_top_players": true,
+            "manual_result_switch": false,
+            "show_award_ceremony": true,
+            "show_highscore_list": true,
+            "automatic_username_generation": false,
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": 485066,
+                            "text": "Alexander Schmehmann",
+                            "is_right": false
+                        },
+                        {
+                            "id": 485067,
+                            "text": "Klaus Liebler",
+                            "is_right": true
+                        },
+                        {
+                            "id": 485068,
+                            "text": "Kim Musterdivers",
+                            "is_right": false
+                        },
+                        {
+                            "id": 485069,
+                            "text": "Erika Müller",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Wie heißt der Typ in der Nähe der Projektionsfläche?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2022-10-04T05:45:20.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-10-13T14:07:52.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 1,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 485070,
+                            "text": "Es ist warm und trocken hier!",
+                            "is_right": false
+                        },
+                        {
+                            "id": 485071,
+                            "text": "Es gibt gutes Essen in der Mensa und freies WLAN!",
+                            "is_right": false
+                        },
+                        {
+                            "id": 485072,
+                            "text": "Das weiß ich nicht!",
+                            "is_right": false
+                        },
+                        {
+                            "id": 485073,
+                            "text": "Ich möchte Spezialist für Regelungstechnik werden!",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Weshalb sind Sie hier?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2022-10-04T05:47:15.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-10-04T05:47:15.000Z",
+                    "position": 2,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 485074,
+                            "text": "Weil damit viele technische Systeme überhaupt erst realisierbar sind!",
+                            "is_right": true
+                        },
+                        {
+                            "id": 485075,
+                            "text": "Weil sie Weltfrieden herstellen kann",
+                            "is_right": false
+                        },
+                        {
+                            "id": 485076,
+                            "text": "Weil man damit später im Beruf wahrscheinlich zu tun haben wird",
+                            "is_right": true
+                        },
+                        {
+                            "id": 485077,
+                            "text": "Weil der RT-Dozent einfach wahnsinnig sympathisch rüberkommt",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Weshalb ist Regelungstechnik suuuper?",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2022-10-04T05:49:50.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-10-04T05:49:50.000Z",
+                    "position": 3,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 485078,
+                            "text": "Die Stellgröße",
+                            "is_right": false
+                        },
+                        {
+                            "id": 485079,
+                            "text": "Die Rückführung",
+                            "is_right": true
+                        },
+                        {
+                            "id": 485080,
+                            "text": "Das Übertragungsglied",
+                            "is_right": false
+                        },
+                        {
+                            "id": 485081,
+                            "text": "Die Störgröße",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Was ist das Besondere an einem Regelkreis?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2022-10-04T05:52:06.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-10-04T05:52:06.000Z",
+                    "position": 4,
+                    "num_answers": 4
+                }
+            ]
+        },
+        {
+            "user_stat_list": [],
+            "poll_intervall": 2500,
+            "server_time": "2024-05-28T08:46:30.596Z",
+            "status": "PRE_START",
+            "name": "RT02 Graf. ModBild RT03 Eigenschaften v. Ü'gliedern",
+            "pin_code": "LBIUMS",
+            "color_code": "#72b12e",
+            "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/e8003de0-f47e-11ed-9561-3992cf155281.png",
+            "selected_music": "Jazzy",
+            "answer_time_sec": 30,
+            "active_question_start": "2024-03-20 09:21:10",
+            "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+            "created_at": "2022-10-11T05:58:54.000Z",
+            "show_top_players": false,
+            "manual_result_switch": false,
+            "show_award_ceremony": true,
+            "show_highscore_list": false,
+            "automatic_username_generation": false,
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": 488627,
+                            "text": "immer vereinfachend",
+                            "is_right": true
+                        },
+                        {
+                            "id": 488628,
+                            "text": "immer zum Spielen geeignet",
+                            "is_right": false
+                        },
+                        {
+                            "id": 488629,
+                            "text": "immer zur Simulation geeignet",
+                            "is_right": false
+                        },
+                        {
+                            "id": 488630,
+                            "text": "immer mathematisch",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Modelle sind...",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2022-10-11T05:31:02.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-10-11T05:31:02.000Z",
+                    "position": 1,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 488631,
+                            "text": "im geschlossenen Regelkreis",
+                            "is_right": true
+                        },
+                        {
+                            "id": 488632,
+                            "text": "in der offenen Regelkette",
+                            "is_right": false
+                        },
+                        {
+                            "id": 488633,
+                            "text": "so, dass sie Störungen vollständig eliminieren",
+                            "is_right": false
+                        },
+                        {
+                            "id": 488634,
+                            "text": "so, dass sie die Regelgröße der Führungsgröße exakt anpassen",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Regler arbeiten immer...",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2022-10-11T05:35:03.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-10-11T05:35:03.000Z",
+                    "position": 2,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 683452,
+                            "text": "Regelgröße",
+                            "is_right": true
+                        },
+                        {
+                            "id": 683453,
+                            "text": "Sollgröße",
+                            "is_right": false
+                        },
+                        {
+                            "id": 683454,
+                            "text": "Stellgröße",
+                            "is_right": true
+                        },
+                        {
+                            "id": 683455,
+                            "text": "Störgröße",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Welche Größen existieren im Regelkreis?",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2024-03-18T15:06:39.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2024-03-18T15:06:39.000Z",
+                    "position": 3,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 488635,
+                            "text": "...die Einhaltung des Verschiebungsprinzips.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 488636,
+                            "text": "...die Einhaltung des Differenzialprinzips.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 488637,
+                            "text": "...die Einhaltung des Koeffizientenprinzips.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 488638,
+                            "text": "...die Einhaltung des Überlagerungsprinzips.",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Kennzeichen eines LTI-Übertragungsgliedes ist...",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2022-10-11T05:38:39.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2024-03-20T08:01:12.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 4,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 488639,
+                            "text": "Lichtleistung --> Raum --> Helligkeit",
+                            "is_right": false
+                        },
+                        {
+                            "id": 488640,
+                            "text": "Geschwindigkeit eines Förderbandes --> Lagerstätte --> Gewicht des eingelagertes Materials",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Ein Beispiel für ein Übertragungsglied ohne Ausgleich ist:",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2022-10-11T05:41:49.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-10-11T05:41:49.000Z",
+                    "position": 5,
+                    "num_answers": 2
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 497888,
+                            "text": "...passiert nichts.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 497889,
+                            "text": "...steigt der Ausgang \"über alle Grenzen\".",
+                            "is_right": true
+                        },
+                        {
+                            "id": 497890,
+                            "text": "...fällt der Ausgang auf 0.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 497891,
+                            "text": "...wird das Übertragungsglied immer zerstört.",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Wenn man einen Sprung auf ein Übertragungsglied ohne Ausgleich gibt...",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2022-10-31T15:09:43.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2024-03-20T08:02:12.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 6,
+                    "num_answers": 4
+                }
+            ]
+        },
+        {
+            "user_stat_list": [],
+            "poll_intervall": 2500,
+            "server_time": "2024-05-28T08:46:30.596Z",
+            "status": "PRE_START",
+            "name": "RT04 Quant RT05 Math Modellierung",
+            "pin_code": "LFNBDZ",
+            "color_code": "#72b12e",
+            "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/e8003de0-f47e-11ed-9561-3992cf155281.png",
+            "selected_music": "Jazzy",
+            "answer_time_sec": 40,
+            "active_question_start": "2024-03-20 09:27:28",
+            "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+            "created_at": "2022-10-31T15:03:41.000Z",
+            "show_top_players": false,
+            "manual_result_switch": true,
+            "show_award_ceremony": true,
+            "show_highscore_list": false,
+            "automatic_username_generation": false,
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": 488641,
+                            "text": "...zeigt die zeitliche Abhängigkeit des Ausgangs vom Eingang.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 488642,
+                            "text": "...zeigt die proportionale Abhängigkeit des Ausgangs vom Eingang.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 488643,
+                            "text": "...zeigt den Bezug zwischen Stell- und Störgröße.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 488644,
+                            "text": "Keine der Antworten ist richtig!",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Dynamisches Verhalten eines Übertragungsgliedes...",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2022-10-11T05:46:23.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2024-03-18T15:08:53.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 1,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 620541,
+                            "text": "weil DIFFERENZIALE der Größen am Eingang und am Ausgang verglichen werden.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 620542,
+                            "text": "weil DISKONTINUIERLICHE Größen am Eingang und am Ausgang verglichen werden.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 620543,
+                            "text": "weil DISKRETISIERTE Größen am Eingang und am Ausgang verglichen werden.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 620544,
+                            "text": "weil DESINTERESSIERTE Studierende oft Probleme beim Rechnen bekommen.",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Eine DGL heißt so,",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-10-10T05:52:25.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-10-10T05:52:25.000Z",
+                    "position": 2,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 683456,
+                            "text": "Mit der  Sprungantwort!",
+                            "is_right": false
+                        },
+                        {
+                            "id": 683457,
+                            "text": "Mit einem Kennliniendiagramm!",
+                            "is_right": true
+                        },
+                        {
+                            "id": 683458,
+                            "text": "Mit einer Differenzialgleichung!",
+                            "is_right": false
+                        },
+                        {
+                            "id": 683459,
+                            "text": "Mit einer algebraischen Gleichung!",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Womit kann man statisches Verhalten bestimmen bzw. darstellen?",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2024-03-18T15:19:07.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2024-03-18T15:19:07.000Z",
+                    "position": 3,
+                    "num_answers": 4
+                }
+            ]
+        },
+        {
+            "user_stat_list": [],
+            "poll_intervall": 2500,
+            "server_time": "2024-05-28T08:46:30.596Z",
+            "status": "PRE_START",
+            "name": "RT06 Elem Übertragungsglieder",
+            "pin_code": "LIRWFD",
+            "color_code": "#72b12e",
+            "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/e8003de0-f47e-11ed-9561-3992cf155281.png",
+            "selected_music": "Jazzy",
+            "answer_time_sec": 40,
+            "active_question_start": "2024-04-10 08:12:20",
+            "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+            "created_at": "2022-12-05T06:31:26.000Z",
+            "show_top_players": false,
+            "manual_result_switch": false,
+            "show_award_ceremony": false,
+            "show_highscore_list": false,
+            "automatic_username_generation": false,
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": 555758,
+                            "text": "...werden symbolisch durch ihre Sprungantwort dargestellt.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 555759,
+                            "text": "...können durch Differenzialgleichungen auch mathematisch beschrieben werden.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 555760,
+                            "text": "...müssen durch den \"Grundtyp\" und typabhängige Parameter beschrieben werden.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 555761,
+                            "text": "...sind immer linear.",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Die Ihnen bekannten elementaren Übertragungsglieder...",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2023-03-26T17:31:46.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-03-26T17:31:46.000Z",
+                    "position": 1,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 519153,
+                            "text": "ist ein Übertragungsglied ohne Ausgleich.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 519154,
+                            "text": "ist ein Übertragungsglied mit Ausgleich.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 555762,
+                            "text": "...wird durch sein statisches Verhalten vollständig beschrieben.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 555763,
+                            "text": "...hat die Differenzialgleichung $\\dot{v}(t)=K_{I}\\cdot u(t)$",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Das I-Glied...",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2022-12-05T06:33:57.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-03-26T17:36:24.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 2,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 519157,
+                            "text": "...kann ein Übertragungsglied mit Ausgleich sein.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 519158,
+                            "text": "...kann kein Übertragungsglied mit Ausgleich sein.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 519159,
+                            "text": "...ist in der Praxis nicht realisierbar.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 519160,
+                            "text": "...macht einen \"Knick\" in seiner Sprungantwort.",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Das PTn-Glied...",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2022-12-05T06:35:43.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-03-26T17:38:38.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 3,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 519161,
+                            "text": "...hat einen Wendepunkt in der Sprungantwort.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 519162,
+                            "text": "...wird durch einen Proportionalbeiwert und eine Zeitkonstante charakterisiert.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 519163,
+                            "text": "...erreicht nach der Zeitkonstante etwa 50% des Beharrungswertes (bezogen auf den Startwert).",
+                            "is_right": false
+                        },
+                        {
+                            "id": 519164,
+                            "text": "...kann durch einen RC-Reihenschwingkreis praktisch umgesetzt werden.",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Das PT1-Glied...",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2022-12-05T06:39:50.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-03-27T05:47:45.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 4,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 556568,
+                            "text": "2",
+                            "is_right": false
+                        },
+                        {
+                            "id": 556569,
+                            "text": "4",
+                            "is_right": false
+                        },
+                        {
+                            "id": 556570,
+                            "text": "6",
+                            "is_right": true
+                        },
+                        {
+                            "id": 556571,
+                            "text": "8",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Vor Ihnen liegt das Kennfeld einer Punpe, das die Größen Drehzahl, Druck und Volumenstrom verknüpft. Wie viele Linearisierungsmöglichkeiten existieren?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-03-28T05:46:18.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-03-28T05:46:18.000Z",
+                    "position": 5,
+                    "num_answers": 4
+                }
+            ]
+        },
+        {
+            "user_stat_list": [],
+            "poll_intervall": 2500,
+            "server_time": "2024-05-28T08:46:30.596Z",
+            "status": "PRE_START",
+            "name": "RT07 Experimentelle Modellbildung",
+            "pin_code": "LQYIZG",
+            "color_code": "#009fe3",
+            "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/267e3cd0-414c-11ec-a352-a11afc152248.png",
+            "selected_music": "Jazzy",
+            "answer_time_sec": 40,
+            "active_question_start": "2024-04-15 06:52:35",
+            "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+            "created_at": "2023-03-28T05:36:43.000Z",
+            "show_top_players": false,
+            "manual_result_switch": true,
+            "show_award_ceremony": true,
+            "show_highscore_list": true,
+            "automatic_username_generation": false,
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": 556560,
+                            "text": "Von vergleichsweise schnellen Übertragungsgliedern.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 556561,
+                            "text": "Von vergleichsweise langsamen Übertragungsgliedern.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 556562,
+                            "text": "Von Übertragungsgliedern mit Ausgleich.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 556563,
+                            "text": "Von Übertragungsgliedern ohne Ausgleich.",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Von welchen Übertragungsgliedern kann und sollte man statische Modelle erzeugen?",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2023-03-28T05:39:13.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-03-28T05:40:22.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 1,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 556564,
+                            "text": "Ein spezieller Punkt im Notensystem Ihrer Abschlussarbeit.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 556565,
+                            "text": "Ein Betriebszustand eines technischen Systems, der durch planerische Auslegung bestimmt wird.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 556566,
+                            "text": "Ein Betriebszustand, der bei maximaler Leistungsanforderung im Betrieb erreicht wird.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 556567,
+                            "text": "Der Betriebszustand exakt in der Mitte des späteren Betriebsintervalls.",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Was ist der Arbeitspunkt",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-03-28T05:43:19.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-03-28T05:43:19.000Z",
+                    "position": 2,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 562451,
+                            "text": "\tImpuls",
+                            "is_right": false
+                        },
+                        {
+                            "id": 562452,
+                            "text": "Sprung",
+                            "is_right": true
+                        },
+                        {
+                            "id": 562453,
+                            "text": "Harmonische Schwingung",
+                            "is_right": false
+                        },
+                        {
+                            "id": 562454,
+                            "text": "Rampe",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Welches Testsignal zur Bestimmung des dynamischen Verhaltens einer Regelstrecke wird in der Paxis sehr oft verwendet?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-04-16T10:02:51.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-04-16T10:07:28.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 3,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 562455,
+                            "text": "Ein Verfahren zur Streckenidentifikation bei P-Tn-Strecken mit Ausgleich",
+                            "is_right": true
+                        },
+                        {
+                            "id": 562456,
+                            "text": "Ein Verfahren zur Streckenidentifikation bei P-Tn-Strecken ohne Ausgleich",
+                            "is_right": false
+                        },
+                        {
+                            "id": 562457,
+                            "text": "Ein Verfahren zur Streckenidentifikation bei P-T1-Strecken mit Ausgleich",
+                            "is_right": false
+                        },
+                        {
+                            "id": 562458,
+                            "text": "Ein Verfahren zur Streckenidentifikation bei P-T1-Strecken ohne Ausgleich",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Was ist die Wendetangentenmethode?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-04-16T10:04:58.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-04-16T10:04:58.000Z",
+                    "position": 4,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 562447,
+                            "text": "50W auf 80W",
+                            "is_right": true
+                        },
+                        {
+                            "id": 562448,
+                            "text": "0W auf 100W",
+                            "is_right": false
+                        },
+                        {
+                            "id": 562449,
+                            "text": "0W auf 1W",
+                            "is_right": false
+                        },
+                        {
+                            "id": 562450,
+                            "text": "99W auf 100W",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Ein Elektromotor hat eine Nennleistung von 100W. Was ist vermutlich ein guter Sprung zur Bestimmung der Sprungantwort?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-04-16T10:01:18.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-04-16T10:01:18.000Z",
+                    "position": 5,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 562459,
+                            "text": "Das \"Wendetangentenverfahren\"",
+                            "is_right": false
+                        },
+                        {
+                            "id": 562460,
+                            "text": "Das Verfahren \"Parameter-Fitting für P-T1\"",
+                            "is_right": false
+                        },
+                        {
+                            "id": 562461,
+                            "text": "Das Verfahren nach Ormanns",
+                            "is_right": false
+                        },
+                        {
+                            "id": 562462,
+                            "text": "Keine der Antworten ist richtig",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Welches Verfahren eignet sich für Strecken höheren Grades ohne Ausgleich?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-04-16T10:07:05.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-04-17T06:43:29.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 6,
+                    "num_answers": 4
+                }
+            ]
+        },
+        {
+            "user_stat_list": [],
+            "poll_intervall": 2500,
+            "server_time": "2024-05-28T08:46:30.596Z",
+            "status": "PRE_START",
+            "name": "RT08 LaPlace-Transformation",
+            "pin_code": "LEUAVL",
+            "color_code": "#009fe3",
+            "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/267e3cd0-414c-11ec-a352-a11afc152248.png",
+            "selected_music": "Jazzy",
+            "answer_time_sec": 40,
+            "active_question_start": "2024-05-27 06:40:17",
+            "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+            "created_at": "2022-11-20T16:10:18.000Z",
+            "show_top_players": true,
+            "manual_result_switch": true,
+            "show_award_ceremony": false,
+            "show_highscore_list": false,
+            "automatic_username_generation": false,
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": 507858,
+                            "text": "Komplexwertige Integrale lösen",
+                            "is_right": false
+                        },
+                        {
+                            "id": 507859,
+                            "text": "Lösungen in Tabellen nachschlagen",
+                            "is_right": true
+                        },
+                        {
+                            "id": 507860,
+                            "text": "Partialbruchzerlegung",
+                            "is_right": true
+                        },
+                        {
+                            "id": 507861,
+                            "text": "Grundrechenarten",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Was muss man für die Laplace-Transformation tatsächlich (!) können?",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2022-11-20T16:16:40.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-11-20T16:16:40.000Z",
+                    "position": 1,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 507850,
+                            "text": "\t\tDie experimentelle statische Analyse einer Regelstrecke",
+                            "is_right": true
+                        },
+                        {
+                            "id": 507851,
+                            "text": "Die Untersuchung eines Regelkreises auf Stabilität",
+                            "is_right": false
+                        },
+                        {
+                            "id": 507852,
+                            "text": "Die Untersuchung eines Übertragungsgliedes auf Stabilität",
+                            "is_right": false
+                        },
+                        {
+                            "id": 507853,
+                            "text": "Die Bestimmung der Sprungantwort eines Übertragungsgliedes",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Was gelingt NICHT mit der Laplace-Transformation?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2022-11-20T16:13:41.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-11-20T16:13:41.000Z",
+                    "position": 2,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 507866,
+                            "text": "Linearitätsregel",
+                            "is_right": true
+                        },
+                        {
+                            "id": 507867,
+                            "text": "Differentationsregel",
+                            "is_right": true
+                        },
+                        {
+                            "id": 507868,
+                            "text": "Multiplikationsregel",
+                            "is_right": false
+                        },
+                        {
+                            "id": 507869,
+                            "text": "Rekursionsregel",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Welche Operationsregeln haben Sie bereits kennen gelernt?",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2022-11-20T16:19:04.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-11-20T16:26:28.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 3,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 507874,
+                            "text": "$s\\cdot F\\left(s\\right)$",
+                            "is_right": true
+                        },
+                        {
+                            "id": 507875,
+                            "text": "$\\frac{1}{s}\\cdot F\\left(s\\right)$",
+                            "is_right": false
+                        },
+                        {
+                            "id": 507876,
+                            "text": "$F^{\\prime}(s)$",
+                            "is_right": false
+                        },
+                        {
+                            "id": 507877,
+                            "text": "$f\\left(t\\right) \\cdot F\\left(s^{\\prime}\\right)$",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Was ist die Laplace-Transformierte von $f^{\\prime}(t)$?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2022-11-20T16:25:48.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2022-11-20T16:25:48.000Z",
+                    "position": 4,
+                    "num_answers": 4
+                }
+            ]
+        },
+        {
+            "user_stat_list": [],
+            "poll_intervall": 2500,
+            "server_time": "2024-05-28T08:46:30.596Z",
+            "status": "PRE_START",
+            "name": "RT12 Regelkreise",
+            "pin_code": "LLOYXK",
+            "color_code": "#009fe3",
+            "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/267e3cd0-414c-11ec-a352-a11afc152248.png",
+            "selected_music": "Jazzy",
+            "answer_time_sec": 40,
+            "active_question_start": "2024-04-24 08:39:18",
+            "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+            "created_at": "2023-05-01T17:41:01.000Z",
+            "show_top_players": false,
+            "manual_result_switch": true,
+            "show_award_ceremony": true,
+            "show_highscore_list": true,
+            "automatic_username_generation": false,
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": 572513,
+                            "text": "Die Rückführung",
+                            "is_right": true
+                        },
+                        {
+                            "id": 572514,
+                            "text": "Die Hinführung",
+                            "is_right": false
+                        },
+                        {
+                            "id": 572515,
+                            "text": "Die Verführung",
+                            "is_right": false
+                        },
+                        {
+                            "id": 572516,
+                            "text": "Die Museumsführung",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Was ist das wesentliche Kennzeichen eines Regelkreises?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-05-01T17:42:13.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-01T17:42:13.000Z",
+                    "position": 1,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 572517,
+                            "text": "...ist die Störübertragungsfunktion näherungsweise 0.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 572518,
+                            "text": "...ist die Führungsübertragungsfunktion näherungsweise 1.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 572519,
+                            "text": "...ist die Führungsübertragungsfunktion näherungsweise 'plus unendlich'.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 572520,
+                            "text": "..ist die Störübertragungsfunktion näherungsweise 'minus unendlich'.",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Bei einem Regler mit gutem Führungsverhalten...",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-05-01T17:51:42.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-01T17:51:42.000Z",
+                    "position": 2,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 572525,
+                            "text": "...das Bügeleisen.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 572526,
+                            "text": "...der Arduino-basierte Regler des Experimentieraufbaus im Praktikum.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 572527,
+                            "text": "...ein (klassisches) Heizkörperthermostat",
+                            "is_right": true
+                        },
+                        {
+                            "id": 572528,
+                            "text": "...die im Skript gezeigten industriellen PID-Regler.",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Beispiel für Regler ohne Hilfsenergie ist...",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2023-05-01T18:02:40.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-01T18:02:40.000Z",
+                    "position": 3,
+                    "num_answers": 4
+                }
+            ]
+        },
+        {
+            "user_stat_list": [],
+            "poll_intervall": 2500,
+            "server_time": "2024-05-28T08:46:30.596Z",
+            "status": "PRE_START",
+            "name": "RT13 P-Regler",
+            "pin_code": "LXZPLA",
+            "color_code": "#009fe3",
+            "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/267e3cd0-414c-11ec-a352-a11afc152248.png",
+            "selected_music": "Jazzy",
+            "answer_time_sec": 40,
+            "active_question_start": "2024-04-29 06:58:42",
+            "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+            "created_at": "2023-05-07T18:06:48.000Z",
+            "show_top_players": false,
+            "manual_result_switch": true,
+            "show_award_ceremony": true,
+            "show_highscore_list": true,
+            "automatic_username_generation": false,
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": 574870,
+                            "text": "Ein Proportional-Regler",
+                            "is_right": true
+                        },
+                        {
+                            "id": 574871,
+                            "text": "Ein Progressiv-Regler",
+                            "is_right": false
+                        },
+                        {
+                            "id": 574872,
+                            "text": "Ein Parallel-Regler",
+                            "is_right": false
+                        },
+                        {
+                            "id": 574873,
+                            "text": "Ein Potenz-Regler",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Was ist ein P-Regler?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-05-07T18:08:42.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-07T18:08:42.000Z",
+                    "position": 1,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 574874,
+                            "text": "Ein P-Regler wird über einen einzigen Parameter eingestellt.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 574875,
+                            "text": "Ein P-Regler hat immer eine bleibende Regelabweichung",
+                            "is_right": false
+                        },
+                        {
+                            "id": 574876,
+                            "text": "Ein P-Regler nie eine bleibende Regelabweichung",
+                            "is_right": false
+                        },
+                        {
+                            "id": 574877,
+                            "text": "Ein P-Regler hat meistens eine bleibende Regelabweichung",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Welche Aussagen über P-Regler sind korrekt?",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2023-05-07T18:11:09.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-12-07T07:36:18.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 2,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 574878,
+                            "text": "...wie ein P-Glied.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 574879,
+                            "text": "...wie ein P-T1-Glied.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 574880,
+                            "text": "...wie ein P-Tn-Glied.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 574881,
+                            "text": "Keine der Antworten ist richtig",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Ein Regelkreis mit einem P-Regler und einer PT1-Strecke verhält sich...",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-05-07T18:13:24.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-07T18:13:24.000Z",
+                    "position": 3,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 574882,
+                            "text": "...ist jener Bereich, den die Regelgröße durchlaufen müsste, damit der komplette Stellbereich durchlaufen wird. ",
+                            "is_right": true
+                        },
+                        {
+                            "id": 574883,
+                            "text": "...ist jener Bereich, den die Stellgröße durchlaufen müsste, damit der komplette Regelbereich durchlaufen wird. ",
+                            "is_right": false
+                        },
+                        {
+                            "id": 574884,
+                            "text": "...ist jeder Bereich, den die Störgröße durchlaufen müsste, damit der komplette Stellbereich durchlaufen wird.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 574885,
+                            "text": "...ist jeder Bereich, den die Stellgröße durchlaufen müsste, damit der komplette Störbereich durchlaufen wird.",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Der Proportionalbereich eines Reglers...",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-05-07T18:16:54.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-07T18:16:54.000Z",
+                    "position": 4,
+                    "num_answers": 4
+                }
+            ]
+        },
+        {
+            "user_stat_list": [],
+            "poll_intervall": 2500,
+            "server_time": "2024-05-28T08:46:30.596Z",
+            "status": "PRE_START",
+            "name": "RT14+15 PID-Regler",
+            "pin_code": "LTSBQA",
+            "color_code": "#009fe3",
+            "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/267e3cd0-414c-11ec-a352-a11afc152248.png",
+            "selected_music": "Jazzy",
+            "answer_time_sec": 40,
+            "active_question_start": "2024-05-13 06:22:23",
+            "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+            "created_at": "2023-05-14T16:04:28.000Z",
+            "show_top_players": false,
+            "manual_result_switch": false,
+            "show_award_ceremony": false,
+            "show_highscore_list": true,
+            "automatic_username_generation": false,
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": 579002,
+                            "text": "Wenn $T_E$ gleich $T_B$ ist",
+                            "is_right": false
+                        },
+                        {
+                            "id": 579003,
+                            "text": "Wenn $T_E$ deutlich kleiner als $T_B$ ist.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 579004,
+                            "text": "Wenn $T_E$ deutlich größer als $T_B$ ist.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 579005,
+                            "text": "Keine der Antworten ist richtig",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Wann ist eine Strecke gut regelbar?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-05-14T16:08:00.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-14T16:20:33.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 1,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 579006,
+                            "text": "Ein Verfahren nach Kupfmüller!",
+                            "is_right": false
+                        },
+                        {
+                            "id": 579007,
+                            "text": "Ein Verfahren nach Ziegler&Nichols!",
+                            "is_right": true
+                        },
+                        {
+                            "id": 579008,
+                            "text": "Ein Verfahren nach Samal!",
+                            "is_right": false
+                        },
+                        {
+                            "id": 579009,
+                            "text": "Ein Verfahren nach Chien, Hrones und Reswick!",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Welches Ihnen bekannte Entwurfsverfahren können Sie für eine Regelstrecke mit reinem I-Verhalten nutzen?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-05-14T16:10:13.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-14T16:10:33.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 2,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 579010,
+                            "text": "Damit der Integrator im Regler nicht \"zu voll\" wird, wenn der Regelfehler 0 ist.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 579011,
+                            "text": "Damit der Integrator im Regler nicht unter 0 fällt, wenn der Regelfehler sehr groß ist.",
+                            "is_right": false
+                        },
+                        {
+                            "id": 579012,
+                            "text": "Damit der Integrator im Regler nicht \"zu voll\" wird, wenn der Regelfehler sehr groß ist.",
+                            "is_right": true
+                        },
+                        {
+                            "id": 579013,
+                            "text": "Damit der Integrator im Regler nicht unter 0 fällt, wenn der Regelfehler 0 ist.",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Wozu benötigt man Anti-Integrator-Windup?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-05-14T16:14:43.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-14T16:14:43.000Z",
+                    "position": 3,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 579014,
+                            "text": "$G(s)=K_{P,R}(1+T_Vs)$",
+                            "is_right": false
+                        },
+                        {
+                            "id": 579015,
+                            "text": "$G(s)=K_{P,R}(1+\\frac{1}{T_Ns})$",
+                            "is_right": true
+                        },
+                        {
+                            "id": 579016,
+                            "text": "$G(s)=1+T_Vs+\\frac{1}{T_Ns}$",
+                            "is_right": false
+                        },
+                        {
+                            "id": 579017,
+                            "text": "$G(s)=K_{P,R}s+\\frac{1}{T_Ns}$",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Wie sieht die Übertragungsfunktion eines PI-Reglers aus?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-05-14T16:20:17.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-14T16:20:17.000Z",
+                    "position": 4,
+                    "num_answers": 4
+                }
+            ]
+        },
+        {
+            "user_stat_list": [],
+            "poll_intervall": 2500,
+            "server_time": "2024-05-28T08:46:30.596Z",
+            "status": "PRE_START",
+            "name": "RT16 Unstetige Regler",
+            "pin_code": "LHHLHY",
+            "color_code": "#72b12e",
+            "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/e8003de0-f47e-11ed-9561-3992cf155281.png",
+            "answer_time_sec": 40,
+            "active_question_start": "2023-05-22 08:18:05",
+            "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+            "created_at": "2023-05-21T15:11:43.000Z",
+            "show_top_players": false,
+            "manual_result_switch": false,
+            "show_award_ceremony": false,
+            "show_highscore_list": true,
+            "automatic_username_generation": false,
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": 580281,
+                            "text": "Sägezahn",
+                            "is_right": true
+                        },
+                        {
+                            "id": 580282,
+                            "text": "Haifischzahn",
+                            "is_right": false
+                        },
+                        {
+                            "id": 580283,
+                            "text": "Eckzahn",
+                            "is_right": false
+                        },
+                        {
+                            "id": 580284,
+                            "text": "Milchzahn",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Welche Form hat die Regelgröße bei Zweipunktreglern an einer PT1-Strecke?",
+                    "is_poll_question": false,
+                    "type": 2,
+                    "created_at": "2023-05-21T15:13:17.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-21T15:13:17.000Z",
+                    "position": 1,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 580285,
+                            "text": "Große Verzögerungszeit",
+                            "is_right": true
+                        },
+                        {
+                            "id": 580286,
+                            "text": "Schwingender Beharrungswert",
+                            "is_right": false
+                        },
+                        {
+                            "id": 580287,
+                            "text": "Kleine Auslaufzeit",
+                            "is_right": false
+                        },
+                        {
+                            "id": 580288,
+                            "text": "Kleine Streckenverstärkung",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Welche Eigenschaften sollte eine Regelstrecke haben, die mit einem Zweipunktregler betrieben wird?",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2023-05-21T15:16:08.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-21T15:16:08.000Z",
+                    "position": 2,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 580289,
+                            "text": "Kleinere Schwankungsbreite",
+                            "is_right": false
+                        },
+                        {
+                            "id": 580290,
+                            "text": "Kleinere Anlaufzeit",
+                            "is_right": true
+                        },
+                        {
+                            "id": 580291,
+                            "text": "Kleinere Ausregelzeit",
+                            "is_right": false
+                        },
+                        {
+                            "id": 580292,
+                            "text": "Kleinere Ausschaltzeit",
+                            "is_right": false
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Welche Wirkung hat ein großer Leistungsüberschuss?",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2023-05-21T15:19:16.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-21T15:19:16.000Z",
+                    "position": 3,
+                    "num_answers": 4
+                },
+                {
+                    "answers": [
+                        {
+                            "id": 580293,
+                            "text": "Kleinere Ausschaltzeit",
+                            "is_right": false
+                        },
+                        {
+                            "id": 580294,
+                            "text": "Größere Ausschaltzeit",
+                            "is_right": true
+                        },
+                        {
+                            "id": 580295,
+                            "text": "Kleinere Einschaltzeit",
+                            "is_right": false
+                        },
+                        {
+                            "id": 580296,
+                            "text": "Größere Einschaltzeit",
+                            "is_right": true
+                        }
+                    ],
+                    "tags": [],
+                    "text": "Welche Wirkung hat die Hysterese?",
+                    "is_poll_question": false,
+                    "type": 0,
+                    "created_at": "2023-05-21T15:20:44.000Z",
+                    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "updated_at": "2023-05-22T06:14:39.000Z",
+                    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+                    "position": 4,
+                    "num_answers": 4
+                }
+            ]
+        }
+    ],
+    "name": "RT",
+    "pin_code": "CGPKBI",
+    "is_active": true,
+    "is_public": true,
+    "is_password_protected": false,
+    "is_print_allowed": true,
+    "is_watched": true,
+    "is_user_restricted": false,
+    "responsible": "Klaus Liebler",
+    "description": "Regelungstechnik",
+    "color_code": "#009fe3",
+    "logo_url": "https://s3.eu-central-1.amazonaws.com/media.quizacademy.io/267e3cd0-414c-11ec-a352-a11afc152248.png",
+    "score": 1,
+    "created_at": "2022-10-04T05:40:23.000Z",
+    "created_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+    "updated_at": "2024-05-28T08:45:27.000Z",
+    "updated_by": "ee418eab-8439-4024-8ade-4430d2f6b8b9",
+    "available_for_coursemarket": false,
+    "category": {
+        "id": 63,
+        "parent": 1,
+        "name": "Naturwissenschaften",
+        "icon_code": "eco"
+    },
+    "organization": {
+        "id": 4932
+    },
+    "num_quiz": 0,
+    "num_questions": 0,
+    "num_stacks": 0,
+    "num_cards": 0,
+    "meta:importType": "course"
+}

@@ -1,0 +1,256 @@
+Frage: Wie heißt der Typ in der Nähe der Projektionsfläche?
+- Lösung "Alexander Schmehmann" ist falsch
+- Lösung "Klaus Liebler" ist richtig
+- Lösung "Kim Musterdivers" ist falsch
+- Lösung "Erika Müller" ist falsch
+
+Frage: Weshalb sind Sie hier?
+- Lösung "Es ist warm und trocken hier!" ist falsch
+- Lösung "Es gibt gutes Essen in der Mensa und freies WLAN!" ist falsch
+- Lösung "Das weiß ich nicht!" ist falsch
+- Lösung "Ich möchte Spezialist für Regelungstechnik werden!" ist richtig
+
+Frage: Weshalb ist Regelungstechnik suuuper?
+- Lösung "Weil damit viele technische Systeme überhaupt erst realisierbar sind!" ist richtig
+- Lösung "Weil sie Weltfrieden herstellen kann" ist falsch
+- Lösung "Weil man damit später im Beruf wahrscheinlich zu tun haben wird" ist richtig
+- Lösung "Weil der RT-Dozent einfach wahnsinnig sympathisch rüberkommt" ist richtig
+
+Frage: Was ist das Besondere an einem Regelkreis?
+- Lösung "Die Stellgröße" ist falsch
+- Lösung "Die Rückführung" ist richtig
+- Lösung "Das Übertragungsglied" ist falsch
+- Lösung "Die Störgröße" ist falsch
+
+Frage: Modelle sind...
+- Lösung "immer vereinfachend" ist richtig
+- Lösung "immer zum Spielen geeignet" ist falsch
+- Lösung "immer zur Simulation geeignet" ist falsch
+- Lösung "immer mathematisch" ist falsch
+
+Frage: Regler arbeiten immer...
+- Lösung "im geschlossenen Regelkreis" ist richtig
+- Lösung "in der offenen Regelkette" ist falsch
+- Lösung "so, dass sie Störungen vollständig eliminieren" ist falsch
+- Lösung "so, dass sie die Regelgröße der Führungsgröße exakt anpassen" ist falsch
+
+Frage: Welche Größen existieren im Regelkreis?
+- Lösung "Regelgröße" ist richtig
+- Lösung "Sollgröße" ist falsch
+- Lösung "Stellgröße" ist richtig
+- Lösung "Störgröße" ist richtig
+
+Frage: Kennzeichen eines LTI-Übertragungsgliedes ist...
+- Lösung "...die Einhaltung des Verschiebungsprinzips." ist richtig
+- Lösung "...die Einhaltung des Differenzialprinzips." ist falsch
+- Lösung "...die Einhaltung des Koeffizientenprinzips." ist falsch
+- Lösung "...die Einhaltung des Überlagerungsprinzips." ist richtig
+
+Frage: Ein Beispiel für ein Übertragungsglied ohne Ausgleich ist:
+- Lösung "Lichtleistung --> Raum --> Helligkeit" ist falsch
+- Lösung "Geschwindigkeit eines Förderbandes --> Lagerstätte --> Gewicht des eingelagertes Materials" ist richtig
+
+Frage: Wenn man einen Sprung auf ein Übertragungsglied ohne Ausgleich gibt...
+- Lösung "...passiert nichts." ist falsch
+- Lösung "...steigt der Ausgang "über alle Grenzen"." ist richtig
+- Lösung "...fällt der Ausgang auf 0." ist falsch
+- Lösung "...wird das Übertragungsglied immer zerstört." ist falsch
+
+Frage: Dynamisches Verhalten eines Übertragungsgliedes...
+- Lösung "...zeigt die zeitliche Abhängigkeit des Ausgangs vom Eingang." ist richtig
+- Lösung "...zeigt die proportionale Abhängigkeit des Ausgangs vom Eingang." ist falsch
+- Lösung "...zeigt den Bezug zwischen Stell- und Störgröße." ist falsch
+- Lösung "Keine der Antworten ist richtig!" ist falsch
+
+Frage: Eine DGL heißt so,
+- Lösung "weil DIFFERENZIALE der Größen am Eingang und am Ausgang verglichen werden." ist richtig
+- Lösung "weil DISKONTINUIERLICHE Größen am Eingang und am Ausgang verglichen werden." ist falsch
+- Lösung "weil DISKRETISIERTE Größen am Eingang und am Ausgang verglichen werden." ist falsch
+- Lösung "weil DESINTERESSIERTE Studierende oft Probleme beim Rechnen bekommen." ist falsch
+
+Frage: Womit kann man statisches Verhalten bestimmen bzw. darstellen?
+- Lösung "Mit der  Sprungantwort!" ist falsch
+- Lösung "Mit einem Kennliniendiagramm!" ist richtig
+- Lösung "Mit einer Differenzialgleichung!" ist falsch
+- Lösung "Mit einer algebraischen Gleichung!" ist richtig
+
+Frage: Die Ihnen bekannten elementaren Übertragungsglieder...
+- Lösung "...werden symbolisch durch ihre Sprungantwort dargestellt." ist richtig
+- Lösung "...können durch Differenzialgleichungen auch mathematisch beschrieben werden." ist richtig
+- Lösung "...müssen durch den "Grundtyp" und typabhängige Parameter beschrieben werden." ist richtig
+- Lösung "...sind immer linear." ist richtig
+
+Frage: Das I-Glied...
+- Lösung "ist ein Übertragungsglied ohne Ausgleich." ist richtig
+- Lösung "ist ein Übertragungsglied mit Ausgleich." ist falsch
+- Lösung "...wird durch sein statisches Verhalten vollständig beschrieben." ist falsch
+- Lösung "...hat die Differenzialgleichung $\dot{v}(t)=K_{I}\cdot u(t)$" ist richtig
+
+Frage: Das PTn-Glied...
+- Lösung "...kann ein Übertragungsglied mit Ausgleich sein." ist richtig
+- Lösung "...kann kein Übertragungsglied mit Ausgleich sein." ist falsch
+- Lösung "...ist in der Praxis nicht realisierbar." ist falsch
+- Lösung "...macht einen "Knick" in seiner Sprungantwort." ist falsch
+
+Frage: Das PT1-Glied...
+- Lösung "...hat einen Wendepunkt in der Sprungantwort." ist falsch
+- Lösung "...wird durch einen Proportionalbeiwert und eine Zeitkonstante charakterisiert." ist richtig
+- Lösung "...erreicht nach der Zeitkonstante etwa 50% des Beharrungswertes (bezogen auf den Startwert)." ist falsch
+- Lösung "...kann durch einen RC-Reihenschwingkreis praktisch umgesetzt werden." ist richtig
+
+Frage: Vor Ihnen liegt das Kennfeld einer Punpe, das die Größen Drehzahl, Druck und Volumenstrom verknüpft. Wie viele Linearisierungsmöglichkeiten existieren?
+- Lösung "2" ist falsch
+- Lösung "4" ist falsch
+- Lösung "6" ist richtig
+- Lösung "8" ist falsch
+
+Frage: Von welchen Übertragungsgliedern kann und sollte man statische Modelle erzeugen?
+- Lösung "Von vergleichsweise schnellen Übertragungsgliedern." ist richtig
+- Lösung "Von vergleichsweise langsamen Übertragungsgliedern." ist falsch
+- Lösung "Von Übertragungsgliedern mit Ausgleich." ist richtig
+- Lösung "Von Übertragungsgliedern ohne Ausgleich." ist falsch
+
+Frage: Was ist der Arbeitspunkt
+- Lösung "Ein spezieller Punkt im Notensystem Ihrer Abschlussarbeit." ist falsch
+- Lösung "Ein Betriebszustand eines technischen Systems, der durch planerische Auslegung bestimmt wird." ist richtig
+- Lösung "Ein Betriebszustand, der bei maximaler Leistungsanforderung im Betrieb erreicht wird." ist falsch
+- Lösung "Der Betriebszustand exakt in der Mitte des späteren Betriebsintervalls." ist falsch
+
+Frage: Welches Testsignal zur Bestimmung des dynamischen Verhaltens einer Regelstrecke wird in der Paxis sehr oft verwendet?
+- Lösung "	Impuls" ist falsch
+- Lösung "Sprung" ist richtig
+- Lösung "Harmonische Schwingung" ist falsch
+- Lösung "Rampe" ist falsch
+
+Frage: Was ist die Wendetangentenmethode?
+- Lösung "Ein Verfahren zur Streckenidentifikation bei P-Tn-Strecken mit Ausgleich" ist richtig
+- Lösung "Ein Verfahren zur Streckenidentifikation bei P-Tn-Strecken ohne Ausgleich" ist falsch
+- Lösung "Ein Verfahren zur Streckenidentifikation bei P-T1-Strecken mit Ausgleich" ist falsch
+- Lösung "Ein Verfahren zur Streckenidentifikation bei P-T1-Strecken ohne Ausgleich" ist falsch
+
+Frage: Ein Elektromotor hat eine Nennleistung von 100W. Was ist vermutlich ein guter Sprung zur Bestimmung der Sprungantwort?
+- Lösung "50W auf 80W" ist richtig
+- Lösung "0W auf 100W" ist falsch
+- Lösung "0W auf 1W" ist falsch
+- Lösung "99W auf 100W" ist falsch
+
+Frage: Welches Verfahren eignet sich für Strecken höheren Grades ohne Ausgleich?
+- Lösung "Das "Wendetangentenverfahren"" ist falsch
+- Lösung "Das Verfahren "Parameter-Fitting für P-T1"" ist falsch
+- Lösung "Das Verfahren nach Ormanns" ist falsch
+- Lösung "Keine der Antworten ist richtig" ist richtig
+
+Frage: Was muss man für die Laplace-Transformation tatsächlich (!) können?
+- Lösung "Komplexwertige Integrale lösen" ist falsch
+- Lösung "Lösungen in Tabellen nachschlagen" ist richtig
+- Lösung "Partialbruchzerlegung" ist richtig
+- Lösung "Grundrechenarten" ist richtig
+
+Frage: Was gelingt NICHT mit der Laplace-Transformation?
+- Lösung "		Die experimentelle statische Analyse einer Regelstrecke" ist richtig
+- Lösung "Die Untersuchung eines Regelkreises auf Stabilität" ist falsch
+- Lösung "Die Untersuchung eines Übertragungsgliedes auf Stabilität" ist falsch
+- Lösung "Die Bestimmung der Sprungantwort eines Übertragungsgliedes" ist falsch
+
+Frage: Welche Operationsregeln haben Sie bereits kennen gelernt?
+- Lösung "Linearitätsregel" ist richtig
+- Lösung "Differentationsregel" ist richtig
+- Lösung "Multiplikationsregel" ist falsch
+- Lösung "Rekursionsregel" ist falsch
+
+Frage: Was ist die Laplace-Transformierte von $f^{\prime}(t)$?
+- Lösung "$s\cdot F\left(s\right)$" ist richtig
+- Lösung "$\frac{1}{s}\cdot F\left(s\right)$" ist falsch
+- Lösung "$F^{\prime}(s)$" ist falsch
+- Lösung "$f\left(t\right) \cdot F\left(s^{\prime}\right)$" ist falsch
+
+Frage: Was ist das wesentliche Kennzeichen eines Regelkreises?
+- Lösung "Die Rückführung" ist richtig
+- Lösung "Die Hinführung" ist falsch
+- Lösung "Die Verführung" ist falsch
+- Lösung "Die Museumsführung" ist falsch
+
+Frage: Bei einem Regler mit gutem Führungsverhalten...
+- Lösung "...ist die Störübertragungsfunktion näherungsweise 0." ist falsch
+- Lösung "...ist die Führungsübertragungsfunktion näherungsweise 1." ist richtig
+- Lösung "...ist die Führungsübertragungsfunktion näherungsweise 'plus unendlich'." ist falsch
+- Lösung "..ist die Störübertragungsfunktion näherungsweise 'minus unendlich'." ist falsch
+
+Frage: Beispiel für Regler ohne Hilfsenergie ist...
+- Lösung "...das Bügeleisen." ist richtig
+- Lösung "...der Arduino-basierte Regler des Experimentieraufbaus im Praktikum." ist falsch
+- Lösung "...ein (klassisches) Heizkörperthermostat" ist richtig
+- Lösung "...die im Skript gezeigten industriellen PID-Regler." ist falsch
+
+Frage: Was ist ein P-Regler?
+- Lösung "Ein Proportional-Regler" ist richtig
+- Lösung "Ein Progressiv-Regler" ist falsch
+- Lösung "Ein Parallel-Regler" ist falsch
+- Lösung "Ein Potenz-Regler" ist falsch
+
+Frage: Welche Aussagen über P-Regler sind korrekt?
+- Lösung "Ein P-Regler wird über einen einzigen Parameter eingestellt." ist richtig
+- Lösung "Ein P-Regler hat immer eine bleibende Regelabweichung" ist falsch
+- Lösung "Ein P-Regler nie eine bleibende Regelabweichung" ist falsch
+- Lösung "Ein P-Regler hat meistens eine bleibende Regelabweichung" ist richtig
+
+Frage: Ein Regelkreis mit einem P-Regler und einer PT1-Strecke verhält sich...
+- Lösung "...wie ein P-Glied." ist falsch
+- Lösung "...wie ein P-T1-Glied." ist richtig
+- Lösung "...wie ein P-Tn-Glied." ist falsch
+- Lösung "Keine der Antworten ist richtig" ist falsch
+
+Frage: Der Proportionalbereich eines Reglers...
+- Lösung "...ist jener Bereich, den die Regelgröße durchlaufen müsste, damit der komplette Stellbereich durchlaufen wird. " ist richtig
+- Lösung "...ist jener Bereich, den die Stellgröße durchlaufen müsste, damit der komplette Regelbereich durchlaufen wird. " ist falsch
+- Lösung "...ist jeder Bereich, den die Störgröße durchlaufen müsste, damit der komplette Stellbereich durchlaufen wird." ist falsch
+- Lösung "...ist jeder Bereich, den die Stellgröße durchlaufen müsste, damit der komplette Störbereich durchlaufen wird." ist falsch
+
+Frage: Wann ist eine Strecke gut regelbar?
+- Lösung "Wenn $T_E$ gleich $T_B$ ist" ist falsch
+- Lösung "Wenn $T_E$ deutlich kleiner als $T_B$ ist." ist richtig
+- Lösung "Wenn $T_E$ deutlich größer als $T_B$ ist." ist falsch
+- Lösung "Keine der Antworten ist richtig" ist falsch
+
+Frage: Welches Ihnen bekannte Entwurfsverfahren können Sie für eine Regelstrecke mit reinem I-Verhalten nutzen?
+- Lösung "Ein Verfahren nach Kupfmüller!" ist falsch
+- Lösung "Ein Verfahren nach Ziegler&Nichols!" ist richtig
+- Lösung "Ein Verfahren nach Samal!" ist falsch
+- Lösung "Ein Verfahren nach Chien, Hrones und Reswick!" ist falsch
+
+Frage: Wozu benötigt man Anti-Integrator-Windup?
+- Lösung "Damit der Integrator im Regler nicht "zu voll" wird, wenn der Regelfehler 0 ist." ist falsch
+- Lösung "Damit der Integrator im Regler nicht unter 0 fällt, wenn der Regelfehler sehr groß ist." ist falsch
+- Lösung "Damit der Integrator im Regler nicht "zu voll" wird, wenn der Regelfehler sehr groß ist." ist richtig
+- Lösung "Damit der Integrator im Regler nicht unter 0 fällt, wenn der Regelfehler 0 ist." ist falsch
+
+Frage: Wie sieht die Übertragungsfunktion eines PI-Reglers aus?
+- Lösung "$G(s)=K_{P,R}(1+T_Vs)$" ist falsch
+- Lösung "$G(s)=K_{P,R}(1+\frac{1}{T_Ns})$" ist richtig
+- Lösung "$G(s)=1+T_Vs+\frac{1}{T_Ns}$" ist falsch
+- Lösung "$G(s)=K_{P,R}s+\frac{1}{T_Ns}$" ist falsch
+
+Frage: Welche Form hat die Regelgröße bei Zweipunktreglern an einer PT1-Strecke?
+- Lösung "Sägezahn" ist richtig
+- Lösung "Haifischzahn" ist falsch
+- Lösung "Eckzahn" ist falsch
+- Lösung "Milchzahn" ist falsch
+
+Frage: Welche Eigenschaften sollte eine Regelstrecke haben, die mit einem Zweipunktregler betrieben wird?
+- Lösung "Große Verzögerungszeit" ist richtig
+- Lösung "Schwingender Beharrungswert" ist falsch
+- Lösung "Kleine Auslaufzeit" ist falsch
+- Lösung "Kleine Streckenverstärkung" ist falsch
+
+Frage: Welche Wirkung hat ein großer Leistungsüberschuss?
+- Lösung "Kleinere Schwankungsbreite" ist falsch
+- Lösung "Kleinere Anlaufzeit" ist richtig
+- Lösung "Kleinere Ausregelzeit" ist falsch
+- Lösung "Kleinere Ausschaltzeit" ist falsch
+
+Frage: Welche Wirkung hat die Hysterese?
+- Lösung "Kleinere Ausschaltzeit" ist falsch
+- Lösung "Größere Ausschaltzeit" ist richtig
+- Lösung "Kleinere Einschaltzeit" ist falsch
+- Lösung "Größere Einschaltzeit" ist richtig
+
